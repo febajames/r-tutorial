@@ -70,5 +70,3 @@ z <- c(1,NULL,3)
 z # NULL is ignored z = 1 3
 d <- NULL
 is.null(d) # TRUE
-
-
